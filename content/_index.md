@@ -23,8 +23,6 @@ Please email us at [info@sffbook.club](mailto:info@sffbook.club) if you have que
 
 Join us for our December meeting where we'll be discussing **Blood Over Bright Haven** by M.L. Wang!
 
-<!-- ![Blood Over Bright Haven Cover](images/blood_over_bright_haven_cover.jpg) -->
-
 {{< figure
   src="images/blood_over_bright_haven_cover.jpg"
   alt="Blood Over Bright Haven by M.L. Wang"
@@ -35,13 +33,13 @@ Join us for our December meeting where we'll be discussing **Blood Over Bright H
 
 [Order hardcover or ebook while supporting a local bookstore](https://bookshop.org/p/books/blood-over-bright-haven-a-novel-m-l-wang/bf1a42d91c007c39?ean=9780593873373&next=t)
 
-[Purchase an ebook while supporting a local bookstore](https://www.libro.fm/audiobooks/9780593916193-blood-over-bright-haven)
+[Purchase an audiobook while supporting a local bookstore](https://www.libro.fm/audiobooks/9780593916193-blood-over-bright-haven)
 
-**Location:** Carnegie Library of Pittsburgh - South Side  
-2205 E Carson St  
-Pittsburgh, PA 15203
+**Location:** 
 
-**Date & Time:** To be announced
+We meet in the South Side Flats Neighborhood of Pittsburgh. Email us at [info@sffbook.club](mailto:info@sffbook.club) for the address.
+
+**Date & Time:** To be announced. 
 
 We look forward to discussing this month's selection with you!
 
